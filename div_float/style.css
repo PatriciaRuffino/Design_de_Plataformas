@@ -1,0 +1,18 @@
+div{
+    height: 50px;
+    width: 50px;
+    border: 1px solid #000000;
+}
+.esquerda{
+    background-color: #0000FF;
+    float: left;
+}
+.direita{
+    background-color: #FF0000;
+    float: right;
+}
+.centro{
+    background-color: #c0c0c0;
+    float: none;
+    margin: 0 auto;
+}

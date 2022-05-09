@@ -1,0 +1,84 @@
+body{
+    background-color: #000000;
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-align: justify;
+}
+#geral{
+    background-color: #666666;
+    margin: auto;
+    width: 800px;
+}
+header{
+    background-image: url(../figure/img/imgHTML.jpeg);
+    height: 160px;
+    opacity: 0.7;
+}
+nav{
+    background-color: #999999;
+    height: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+li{
+    display:inline ;
+    list-style: none;
+    
+   
+}
+a{
+   text-decoration: none;
+   color: #ffffff; 
+   margin-right: 50px;  
+}
+
+aside{
+    background-color: #cccccc;
+    width: 320px;
+    float: left;
+    height: 640px;
+    margin-top: 10px;
+}
+.c{
+    color: red;
+    font-size: 24px;
+    font-weight: 600;
+}
+.o{
+    color: yellow;
+    font-size: 24px;
+    font-weight: 600;
+}
+.n{
+    color: blue;
+    font-size: 24px;
+    font-weight: 600;
+}
+.t{
+    color: violet;
+    font-size: 24px;
+    font-weight: 600;
+}
+.e{
+    color: black;
+    font-size: 24px;
+    font-weight: 600;
+}
+.u{
+    color: maroon;
+    font-size: 24px;
+    font-weight: 600;
+}
+.d{
+    color: greenyellow;
+    font-size: 24px;
+    font-weight: 600;
+}
+article{
+    background-color: #333333;
+    width: 480px;
+    float: right;
+    height: 640px;
+    margin-top: 10px;
+}
