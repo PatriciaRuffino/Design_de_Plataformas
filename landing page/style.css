@@ -79,6 +79,7 @@ body{
     cursor: pointer;
 }
 .imagem-novobot{
+    padding-top: 48px;
     height: 430px;
 }
 .conteudo-secundario{
